@@ -1,0 +1,3 @@
+[submodule "morph4k-presets"]
+	path = morph4k-presets
+	url = https://github.com/pixel-fx/morph4k-presets.git
